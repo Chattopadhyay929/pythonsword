@@ -1,2 +1,2 @@
 # pythonsword
-a sword in python
+an animated sword coded using python
